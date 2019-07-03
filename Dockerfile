@@ -1,1 +1,1 @@
-FROM iprobedroid/swgoh-arena-tracker:beta-3
+FROM iprobedroid/swgoh-arena-tracker:beta-4
