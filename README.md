@@ -8,13 +8,15 @@
 
 ### Set environment variables:
 
-ALLY_CODES - comma separated list of ally codes
+|Variable Name| Description                             | Notes |
+|-------------|-----------------------------------------|------ |
+|ARENA_TYPE | `SQUAD` or `FLEET`                 | Required|
+|DISCORD_WEB_HOOK| Webhook to discord channel.|  Required|
+|GAME_CLIENT_VERSION| Not required, but in case of new game updates can help to fix errors (current version is 0.16.1)| Optional|
+|ALLY_CODES | Comma separated list of ally codes.<br/>Example:<br/>`123456789,123456788,123456999`| Ignored if `ALLY_CODES_URL` present|
+|DISCORD_TAGS| Comma(+bar <b>\|</b> ) separated list of pairs <ally_code>\|<userd_discord_id>.<br/>Example:<br/>`123456789\|000000000000000000,123456788\|000000000000000001`<br/>[How to find discord id.](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)|Ignored if `ALLY_CODES_URL` present|
+|ALLY_CODES_URL| URL to a `json` file with players.<br/> Recommended to use secret github gist like this [example](https://gist.github.com/iprobedroid/603fc48a5ec43afc9e53ee845e91e042/raw).<br/>Fromat: `https://gist.github.com/<user_name>/<gist_id>/raw`<br/>Notes:`name` and `discordId` is not required, just set them to an empty string `""`  |Recommended|
 
-ARENA_TYPE - `SQUAD`/`FLEET`
-
-DISCORD_WEB_HOOK - web hook to discord channel
-
-GAME_CLIENT_VERSION - not required, but in case of new game updates can crash the tracker(current version is 0.16.1)
 
 ## Deploy with Heroku steps
 ### 0. Delete previously created application(if you have one).
@@ -55,4 +57,3 @@ Check the application logs if the tracker stops sending messages.
 ![ScreenShot](assets/add-credit-card.png)
 
 ### 9. Keep only one application and one resource at a time, otherwise you will be charged...
-
