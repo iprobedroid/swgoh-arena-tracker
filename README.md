@@ -1,3 +1,5 @@
+# Set the GAME_CLIENT_VERSION  evn var to 0.17.0 to fix curren porblems
+
 # Simple SWGOH Arena Tracker
 
 ## Deploy straight to Heroku(24/7 free if a credit card registered)
