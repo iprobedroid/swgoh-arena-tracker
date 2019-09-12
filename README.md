@@ -1,4 +1,4 @@
-# Set the GAME_CLIENT_VERSION  env var to 0.17.0 to fix current porblems
+# Set the GAME_CLIENT_VERSION env var to 0.17.0 to fix current problems
 
 # Simple SWGOH Arena Tracker
 
