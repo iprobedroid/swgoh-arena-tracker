@@ -1,3 +1,9 @@
+# The latest version has the game client version set to 99.99.99 by default, no need to update the GAME_CLIENT_VERSION anymore(hopefully)
+1. Save old settings(environment variables except GAME_CLIENT_VERSION)
+2. Install the app from scratch
+3. Set saved environment variables
+4. Delete the old app(to stay 24/7 free of charge forever)
+
 # Simple SWGOH Arena Tracker
 
 ## Deploy straight to Heroku(24/7 free if a credit card registered)
