@@ -1,3 +1,4 @@
+# It is time to reinstall the app, the old one will be deprecated soon.
 # Simple SWGOH Arena Tracker
 
 ## Deploy straight to Heroku(24/7 free if a credit card registered)
