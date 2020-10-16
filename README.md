@@ -14,7 +14,6 @@
 |-------------|-----------------------------------------|------ |
 |ARENA_TYPE | `SQUAD` or `FLEET`                 | Required|
 |DISCORD_WEB_HOOK| Webhook to discord channel.|  Required|
-|GAME_CLIENT_VERSION| Not required, but in case of new game updates can help to fix errors (current version is 99.99.99)| Optional|
 |ALLY_CODES | Comma separated list of ally codes.<br/>Example:<br/>`123456789,123456788,123456999`| Ignored if `ALLY_CODES_URL` present|
 |ALLY_CODES_URL| URL to a `json` file with players.<br/> Recommended to use secret github gist like this [example](https://gist.github.com/iprobedroid/603fc48a5ec43afc9e53ee845e91e042/raw)|[How to find discord id.](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).<br/>Format: `https://gist.github.com/<user_name>/<gist_id>/raw`<br/>Notes:`name` and `discordId` is not required, just set them to an empty string `""`  |Recommended|
 
