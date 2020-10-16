@@ -42,9 +42,6 @@ You will need to create a Discord web hook in the channel of choice.
 Fill the `DISCORD_WEB_HOOK` with the that unique url.
 
 Choose your arena type - `SQUAD` or `FLEET`.
-
-`GAME_CLIENT_VERSION` is not required at first but will help to fix connection
-issues when the game client will be updated again(happens from time to time).
 Check the application logs if the tracker stops sending messages.
 
 ### 6. Activate the resource to run the tracker under the `Resources tab`.
