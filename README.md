@@ -51,7 +51,7 @@ Check the application logs if the tracker stops sending messages.
 ![ScreenShot](assets/check-logs.png)
 
 
-### 8. Add credit card to your profile to get extra free hours for full month free 24/7 hosting.
+### 8. Add a credit card to your profile to get extra free hours for forever free 24/7 hosting.
 ![ScreenShot](assets/add-credit-card.png)
 
 ### 9. Keep only one application and one resource at a time, otherwise you will be charged...
