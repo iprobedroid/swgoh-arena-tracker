@@ -1,5 +1,5 @@
 # Simple SWGOH Arena Tracker
-[DiscordChannel](https://discord.gg/5VfD4Q) --my capacity is quite limited, yet you can help each other on this channel
+[DiscordChannel](https://discord.gg/xcjvKPM) --my capacity is quite limited, yet you can help each other on this channel
 
 ## Deploy straight to Heroku(24/7 free if a credit card registered)
 
