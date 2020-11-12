@@ -1,4 +1,4 @@
-# The Old version is broken(all of them, thanks to CG). Stop and install the new fixed version from scratch!!!.Then delete the old one.
+# The Old version is broken(all of them). Stop and install the new fixed version from scratch!!!.Then delete the old one.
 # Join our [Discord](https://discord.gg/xcjvKPM) channel to be updated.
 
 # Simple SWGOH Arena Tracker
