@@ -1,5 +1,6 @@
 # The Old version is broken(all of them). Stop and install the new fixed version from scratch!!!.Then delete the old one.
 # Join our [Discord](https://discord.gg/xcjvKPM) channel to be updated.
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/iprobedroid)
 
 # Simple SWGOH Arena Tracker
 [DiscordChannel](https://discord.gg/xcjvKPM) --my capacity is quite limited, yet you can help each other on this channel
@@ -58,3 +59,5 @@ Check the application logs if the tracker stops sending messages.
 ![ScreenShot](assets/add-credit-card.png)
 
 ### 9. Keep only one application and one resource at a time, otherwise you will be charged...
+
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/iprobedroid)
