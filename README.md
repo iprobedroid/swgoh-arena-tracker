@@ -19,7 +19,7 @@
 |ARENA_TYPE | `SQUAD` or `FLEET`                 | Required(yet `SQUAD` is by default if not set)|
 |DISCORD_WEB_HOOK| Webhook to discord channel.|  Required|
 |ALLY_CODES | Comma separated list of ally codes.<br/>Example:<br/>`123456789,123456788,123456999`| Ignored if `ALLY_CODES_URL` present|
-|ALLY_CODES_URL| URL to a `json` file with players.<br/> Recommended to use secret github gist like this [example](https://gist.github.com/iprobedroid/603fc48a5ec43afc9e53ee845e91e042/raw) [Hot to create github gist](https://msicc.net/how-to-host-a-code-file-on-github-as-gist-to-use-in-your-application)
+|ALLY_CODES_URL| URL to a `json` file with players.<br/> Recommended to use secret github gist like this [example](https://gist.github.com/iprobedroid/603fc48a5ec43afc9e53ee845e91e042/raw). [How to create github gist](https://msicc.net/how-to-host-a-code-file-on-github-as-gist-to-use-in-your-application)
 |[How to find discord id.](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).<br/>Format: `https://gist.github.com/<user_name>/<gist_id>/raw`<br/>Notes:`name` and `discordId` is not required, just set them to an empty string `""`, `userIcon` is for discord emoji(:emoji_code:)  |Recommended|
 
 
