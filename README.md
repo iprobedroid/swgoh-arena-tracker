@@ -27,7 +27,9 @@
 ### 0. Delete previously created application(if you have one).
 
 ### 1. Click the button below.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker)
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker" >
+  <img src="https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" alt="Deploy" style="max-width:100%;">
+</a>
 
 [if does not work try this link](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker) 
 ### 2. Create the application with a unique name and press `Deploy app` button.
