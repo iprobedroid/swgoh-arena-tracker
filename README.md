@@ -1,4 +1,5 @@
 # Join our [Discord](https://discord.gg/xcjvKPM) channel to be updated.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 # Simple SWGOH Arena Tracker
 [DiscordChannel](https://discord.gg/xcjvKPM) --my capacity is quite limited, yet you can help each other on this channel
