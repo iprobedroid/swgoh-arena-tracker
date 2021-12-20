@@ -1,5 +1,4 @@
 # Join our [Discord](https://discord.gg/xcjvKPM) channel to be updated.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 # Simple SWGOH Arena Tracker
 [DiscordChannel](https://discord.gg/xcjvKPM) --my capacity is quite limited, yet you can help each other on this channel
@@ -8,7 +7,8 @@
 
 ## Deploy straight to Heroku(24/7 free if a credit card registered)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker)
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Configuration
 
@@ -26,7 +26,9 @@
 ### 0. Delete previously created application(if you have one).
 
 ### 1. Click the button below.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker)
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker)
+ -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### 2. Create the application with a unique name and press `Deploy app` button.
 ![ScreenShot](assets/create-app.png)
