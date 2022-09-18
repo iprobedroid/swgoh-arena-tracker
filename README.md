@@ -3,7 +3,7 @@
 # Simple SWGOH Arena Tracker
 [DiscordChannel](https://discord.gg/xcjvKPM) --my capacity is quite limited, yet you can help each other on this channel
 
-[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/iprobedroid)
+<!-- [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/iprobedroid)-->
 
 ## Deploy straight to Heroku(24/7 free if a credit card registered)
 
